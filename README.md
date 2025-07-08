@@ -57,11 +57,3 @@ Coming soon — public release instructions!
 
 Contributions, suggestions, and collaborations are welcome. Let’s build a healthier future together!
 
-## 📄 License
-
-MIT License *(or your preferred license)*
-
----
-
-**Vitalis - because every heartbeat matters.**
-
